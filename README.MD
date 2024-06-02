@@ -3,8 +3,9 @@
 - Also patched binary to disable annoying webpage popup when exiting V2V Converter.
 - Thats about it.
 
-Patch info:
 
+
+Patch info:
 ------------------------------
 What was modified:
 ------------------------------
